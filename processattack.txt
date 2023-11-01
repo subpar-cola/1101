@@ -1,0 +1,14 @@
+read a file
+- read the entire
+- read line by line
+
+# read line by line
+- does the line have numbers
+- grab the numbers on a given line
+
+# scope out the range of values
+- what are min and max
+
+# generate range of numbers between min and max values
+
+# use a smaller data file to test out logic
